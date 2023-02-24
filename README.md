@@ -37,7 +37,7 @@ This repository contains three Racket modules and a `main.rkt`, which serves as 
 
 ### Testing
 
-Once the package is installed, the following programs can be run using `#lang bf`. 
+Once the package is installed, the following programs can be run using `#lang bf` in DrRacket.
 
 ### Hello, World
 
