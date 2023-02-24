@@ -37,6 +37,28 @@ This repository contains three Racket modules and a `main.rkt`, which serves as 
 
 ### Testing
 
-Once the package is installed, the following programs can be run:
+Once the package is installed, the following programs can be run using `#lang bf`. 
 
 ### Hello, World
+
+```racket
+#lang bf
+++++++[>++++++++++++<-]>.
+>++++++++++[>++++++++++<-]>+.
++++++++..+++.>++++[>+++++++++++<-]>.
+<+++[>----<-]>.<<<<<+++[>+++++<-]>.
+>>.+++.------.--------.>>+.
+
+```
+
+### Factorial
+
+```racket
+#lang bf
+>++++++++++>>>+>+[>>>+[-[<<<<<[+<<<<<]>>[[-]>[<<+>+>-]
+<[>+<-]<[>+<-[>+<-[>+<-[>+<-[>+<-[>+<-[>+<-[>+<-[>+<-
+[>[-]>>>>+>+<<<<<<-[>+<-]]]]]]]]]]]>[<+>-]+>>>>>]<<<<<
+[<<<<<]>>>>>>>[>>>>>]++[-<<<<<]>>>>>>-]+>>>>>]<[>++<-]
+<<<<[<[>+<-]<<<<]>>[->[-]++++++[<++++++++>-]>>>>]<<<<<
+[<[>+>+<<-]>.<<<<<]>.>>>>]
+```
